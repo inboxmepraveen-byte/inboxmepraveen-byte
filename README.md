@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm Praveena 👋
+### Data Analyst | Python | SQL | Power BI
 
-<!--
-**inboxmepraveen-byte/inboxmepraveen-byte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🏆 Certifications
+| Certificate | Issuer | Year |
+|-------------|--------|------|
+| SQL (Advanced) | HackerRank | 2024 |
+| Python Programming Intern | Zealous Tech Corp | 2024 |
 
-Here are some ideas to get you started:
+## 🛠️ Skills
+Python | SQL | Power BI | Excel | Pandas | Seaborn
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📂 Projects
+- [HR Analytics Dashboard](https://github.com/inboxmepraveen-byte/hr-analytics-dashboard)
+- [Sales Data Analysis](https://github.com/inboxmepraveen-byte/sales-data-analysis)
