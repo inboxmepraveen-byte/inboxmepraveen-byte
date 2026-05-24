@@ -14,3 +14,9 @@ Python | SQL | Power BI | Excel | Pandas | Seaborn
 - [HR Analytics Dashboard](https://github.com/inboxmepraveen-byte/hr-analytics-dashboard)
 - [Sales Data Analysis](https://github.com/inboxmepraveen-byte/sales-data-analysis)
 
+## 🏆 Certifications
+### SQL Advanced — HackerRank
+![SQL Certificate](sql_certificate.png)
+
+### Python Programming — Zealous Tech Corp
+![Python Certificate](python_certificate.png)
