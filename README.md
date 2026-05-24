@@ -16,7 +16,7 @@ Python | SQL | Power BI | Excel | Pandas | Seaborn
 
 ## 🏆 Certifications
 ### SQL Advanced — HackerRank
-![SQL Certificate](sql_certificate.png)
+![SQL Certificate](sql_advanced certificate (1).pdf)
 
 ### Python Programming — Zealous Tech Corp
-![Python Certificate](python_certificate.png)
+![Python Certificate](Zealous.cer.pdf)
